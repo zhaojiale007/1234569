@@ -1,0 +1,10 @@
+{
+  "name": "vercel-webdav-test",
+  "version": "1.0.0",
+  "description": "A simple WebDAV connection test server for Vercel.",
+  "main": "api/dav.js",
+  "private": true,
+  "dependencies": {
+    "xml-js": "^1.6.11"
+  }
+}
